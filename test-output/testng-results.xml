@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="101903" started-at="2020-05-08T16:27:57 IST" finished-at="2020-05-08T16:29:39 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="101903" started-at="2020-05-08T16:27:57 IST" finished-at="2020-05-08T16:29:39 IST">
+      <class name="tests.TestClassOne">
+        <test-method status="PASS" signature="configure()[pri:0, instance:tests.TestClassOne@72b6cbcc]" name="configure" is-config="true" duration-ms="13391" started-at="2020-05-08T16:27:57 IST" finished-at="2020-05-08T16:28:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configure -->
+        <test-method status="PASS" signature="TestStepOne()[pri:1, instance:tests.TestClassOne@72b6cbcc]" name="TestStepOne" duration-ms="9274" started-at="2020-05-08T16:28:11 IST" finished-at="2020-05-08T16:28:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestStepOne -->
+        <test-method status="PASS" signature="TestStepTwo()[pri:2, instance:tests.TestClassOne@72b6cbcc]" name="TestStepTwo" duration-ms="6982" started-at="2020-05-08T16:28:20 IST" finished-at="2020-05-08T16:28:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestStepTwo -->
+        <test-method status="PASS" signature="TestStepThree()[pri:3, instance:tests.TestClassOne@72b6cbcc]" name="TestStepThree" duration-ms="13351" started-at="2020-05-08T16:28:27 IST" finished-at="2020-05-08T16:28:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestStepThree -->
+        <test-method status="PASS" signature="TestStepFour()[pri:4, instance:tests.TestClassOne@72b6cbcc]" name="TestStepFour" duration-ms="9478" started-at="2020-05-08T16:28:41 IST" finished-at="2020-05-08T16:28:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestStepFour -->
+        <test-method status="PASS" signature="TestStepFive()[pri:5, instance:tests.TestClassOne@72b6cbcc]" name="TestStepFive" duration-ms="31498" started-at="2020-05-08T16:28:50 IST" finished-at="2020-05-08T16:29:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestStepFive -->
+        <test-method status="PASS" signature="closure()[pri:0, instance:tests.TestClassOne@72b6cbcc]" name="closure" is-config="true" duration-ms="17797" started-at="2020-05-08T16:29:22 IST" finished-at="2020-05-08T16:29:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closure -->
+      </class> <!-- tests.TestClassOne -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
